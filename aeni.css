@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@500&display=swap');
+
+.header{
+    background-color: rgb(187, 184, 174);
+    width: 100%;
+    overflow: hidden;
+}
+
+.header .logo{
+    font-size: 30px;
+    float: left;
+    color: white;
+}
+
+body{
+    margin: 0%;
+}
+
+.satu{
+    background-image: url(room.jpg); 
+}
+
+.name{
+    color: rgb(161, 154, 131);
+    font-size: 70px;
+    font-weight:500px;
+    text-align: center;
+    font-family: 'Gluten', cursive;
+}
+
+
+.navigation{
+    float: left;
+    margin-top: 20px;
+    
+}
+
+.navigation li{
+    float: left;
+    margin-left: 20px;
+    display: block;
+
+}
+
+.navigation li a{
+    color: white; 
+}
+
+.gambar{
+    text-align: center;
+}
+
+.ukuran-gambar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+} 
+
+.dua{
+    background-image: url(room2.jpg);
+    background-attachment: fixed;
+}
+
+.perkenalan{
+    background-color:rgb(161, 154, 131) ;
+    padding: 50px;
+    margin: 50px;
+    font-family: cursive;
+    border-radius: 30px;
+}
+
+.pendidikan{
+    
+    background-color: rgb(161, 154, 131);
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+#huruf1{
+    font-size: 20px;
+    font-family: 'Gluten', cursive;
+}
+
+.huruf2{
+    font-size: 20px;
+    font-family: 'Gluten', cursive;
+}
+
+.huruf3{
+    font-size: 20px;
+    font-family: 'Gluten', cursive;
+}
+
+.pengalaman{
+    background-color: rgb(161, 154, 131);
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px;    
+}
+
+.inspirasi{
+    background-color: rgb(161, 154, 131);
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px; 
+}
